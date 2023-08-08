@@ -1,6 +1,6 @@
 # Book Recommender System
 
-**Book Recommender System** is a personalized recommendation solution designed for avid book enthusiasts. Rate your favorite books ⭐ and receive tailored recommendations that match your reading preferences 🤩.
+**Book Recommender System** is a personalized recommendation solution designed for avid book enthusiasts.
 
 ## Project Demo 🎥
 
