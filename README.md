@@ -4,7 +4,7 @@
 
 ## Project Demo 🎥
 
-![Demo GIF](--)
+![Demo GIF]("gif.gif")
 
 ## Table of Contents
 - [Introduction](#introduction)
