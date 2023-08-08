@@ -43,16 +43,14 @@ The **Book Recommender System** employs two primary approaches to offer personal
 
 2. Collaborative Filtering:
    - Memory-Based Approach (K-Nearest Neighbors)
-   - Model-Based Approach (SVD)
-
 
 ## Instructions to Run
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Book-Recommender.git
-cd Book-Recommender
+git clone https://github.com/abhisri15/Book-Recommender-System.git
+cd Book-Recommender-System
 ```
 
 2. Install dependencies:
