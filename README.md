@@ -30,7 +30,7 @@ In the digital age, the overwhelming abundance of available books can make it ch
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## Tools and Technologies Used
+## Tools and Technologies Used ⚙️
 
 The **Book Recommender System** is developed using the following tools and technologies:
 
@@ -56,7 +56,7 @@ The **Book Recommender System** employs two primary approaches to offer personal
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## Instructions to Run
+## Instructions to Run 🏃‍♂️
 
 1. Clone the repository:
 
@@ -85,6 +85,6 @@ python app.py
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## Contributing
+## Contributing 🛂
 
 Feel free to contribute to this project by submitting pull requests or suggesting improvements.
