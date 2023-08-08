@@ -4,7 +4,7 @@
 
 ## Project Demo 🎥
 
-![Demo GIF]('Book-Recommender-System/gif.gif')
+![Demo GIF]('gif.gif')
 
 ## Table of Contents
 - [Introduction](#introduction)
